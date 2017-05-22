@@ -44,12 +44,19 @@
 
 
 .main-bottom {
+	margin-bottom: 20px;
+	
 	background-color: #f0f0f0;
 }
 
 .main-bottom-border {
 	border: 1px solid #c9c9c9;
 	background-color: #ffffff;
+	background-image: url(../img/首页_11.png);
+	background-repeat: no-repeat;
+	background-position-y: 50%;
+	background-position-x: 97%;
+	background-size: 15px;
 }
 
 .row1 {
@@ -80,9 +87,25 @@
 	
 	font-size: 1.2rem;
 	
-	color: #787878
+	color: #787878;
 }
 
 .row3 {
 	padding-top: 15px;
+}
+
+.carousel-content {
+	padding-bottom: 25px;
+}
+
+.carousel-content ol {
+	margin-bottom: 0;
+}
+
+.carousel-content li {
+	background-color: #e7e7e7;
+}
+
+.carousel-indicators .active {
+	background-color: #69D1E9;
 }
