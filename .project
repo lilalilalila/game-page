@@ -69,6 +69,7 @@
 				<arguments>1.0-name-matches-false-false-node_modules</arguments>
 			</matcher>
 		</filter>
+<<<<<<< HEAD
 		<filter>
 			<id>1495702287284</id>
 			<name></name>
@@ -96,5 +97,7 @@
 				<arguments>1.0-name-matches-false-false-node_modules</arguments>
 			</matcher>
 		</filter>
+=======
+>>>>>>> 73cce9ceae06bd096360195181b6618962c241ec
 	</filteredResources>
 </projectDescription>
