@@ -94,6 +94,10 @@
 	padding-top: 15px;
 }
 
+.row3 a {
+	text-decoration: none;
+}
+
 .carousel-content {
 	padding-bottom: 25px;
 }
